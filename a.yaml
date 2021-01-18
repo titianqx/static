@@ -1,0 +1,8 @@
+proxies:
+  - name: "tww"
+    type: vmess
+    server: 34.80.7.184
+    port: 23871
+    uuid: b36eaa70-d072-4231-852d-15e40d9e9210
+    alterId: 64
+    cipher: none
